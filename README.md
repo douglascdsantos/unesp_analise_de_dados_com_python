@@ -10,7 +10,7 @@ Repositório das analises feitas durante a disciplina de Análise de dados com P
 - [Lista de exercícios →](https://github.com/douglascdsantos/unesp_analise_de_dados_com_python/blob/main/Atividade%202/An%C3%A1lise_de_dados_com_Python_Atividade_2.ipynb)
 
 ### Aula 04 - Funções 
-- [Lista de exercícios →](https://github.com/douglascdsantos/unesp_analise_de_dados_com_python)
+- [Lista de exercícios →](https://github.com/douglascdsantos/unesp_analise_de_dados_com_python/blob/main/aula%2004/adp_lista04.ipynb)
 
 ## Contatos e redes sociais: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascdsantos/)
